@@ -1,3 +1,7 @@
+Nhóm 4:
+Nguyễn Đức Nam Phương -19522061
+
+
 Các Chức Năng Chính: 
 
 - Đăng nhập, xác thực bằng Clerk
