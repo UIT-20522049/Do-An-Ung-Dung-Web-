@@ -11,7 +11,7 @@ Các Chức Năng Chính:
 - Quản lý thành viên (Kick, Thay đổi vai trò Khách / Quản trị viên)
 - Tạo liên kết mời vào kênh
 - Chế độ Sáng / Tối
-- Sử dụng cơ sở dữ liệu PostgreSQL
+- Sử dụng cơ sở dữ liệu MySQL
 
 ### Cần cài đặt
 
