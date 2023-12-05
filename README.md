@@ -1,7 +1,7 @@
 Nhóm 4:
 - Nguyễn Đức Nam Phương -19522061
 - Hoàng Thanh Lâm - 20521513
-
+- Hồ Minh Trí - 20522049
 
 Các Chức Năng Chính: 
 
